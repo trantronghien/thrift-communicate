@@ -1,0 +1,16 @@
+group 'thrift-example'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile 'org.apache.thrift:libthrift:0.12.0'
+    compile 'org.slf4j:slf4j-api:1.7.5'
+}

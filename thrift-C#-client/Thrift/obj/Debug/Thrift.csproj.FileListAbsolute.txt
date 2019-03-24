@@ -1,0 +1,9 @@
+C:\Users\admin\source\repos\Thrift\Thrift\bin\Debug\Thrift.exe.config
+C:\Users\admin\source\repos\Thrift\Thrift\bin\Debug\Thrift.exe
+C:\Users\admin\source\repos\Thrift\Thrift\bin\Debug\Thrift.pdb
+C:\Users\admin\source\repos\Thrift\Thrift\bin\Debug\Thrift45.dll
+C:\Users\admin\source\repos\Thrift\Thrift\obj\Debug\Thrift.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Thrift\Thrift\obj\Debug\Thrift.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Thrift\Thrift\obj\Debug\Thrift.csproj.CopyComplete
+C:\Users\admin\source\repos\Thrift\Thrift\obj\Debug\Thrift.exe
+C:\Users\admin\source\repos\Thrift\Thrift\obj\Debug\Thrift.pdb
